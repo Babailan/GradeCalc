@@ -1,0 +1,17 @@
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\bin\Debug\net7.0-windows\Graddddeee.exe
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\bin\Debug\net7.0-windows\Graddddeee.deps.json
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\bin\Debug\net7.0-windows\Graddddeee.runtimeconfig.json
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\bin\Debug\net7.0-windows\Graddddeee.dll
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\bin\Debug\net7.0-windows\Graddddeee.pdb
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.vbproj.AssemblyReference.cache
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.Form1.resources
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.vbproj.GenerateResource.cache
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.AssemblyInfoInputs.cache
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.AssemblyInfo.vb
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.vbproj.CoreCompileInputs.cache
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.dll
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\refint\Graddddeee.dll
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.pdb
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\Graddddeee.genruntimeconfig.cache
+C:\Users\ronel\source\repos\Graddddeee\Graddddeee\obj\Debug\net7.0-windows\ref\Graddddeee.dll
